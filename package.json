@@ -1,0 +1,18 @@
+{
+  "name": "nlp_app",
+  "version": "1.0.0",
+  "description": "an app which uses nlp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamoman <kaidi.mohammed1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nlpjs/basic": "^4.10.6",
+    "@nlpjs/directline-connector": "^4.10.1",
+    "@nlpjs/express-api-server": "^4.10.1",
+    "@nlpjs/msbf-connector": "^4.10.6",
+    "node-nlp": "^4.10.6"
+  }
+}
